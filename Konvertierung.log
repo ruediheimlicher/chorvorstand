@@ -1,0 +1,176 @@
+﻿Zeitstempel	Dateiname	Fehler	Meldung
+2012-05-31 11:55:19.484 +0200	Vorstand Alt.fp7	0	Konvertierung begonnen.
+2012-05-31 11:55:19.724 +0200	Vorstand Alt.fp7	0	Produktversion: 10.0, Dateiformat-Version: 7
+2012-05-31 11:55:19.762 +0200	Vorstand.fmp12	0	Quelldatei wird zum Ziel kopiert
+2012-05-31 11:55:20.416 +0200	Vorstand.fmp12	0	Header/Ersteller/Dateityp der alten Datei wird aktualisiert
+2012-05-31 11:55:21.159 +0200	Vorstand.fmp12	0	Kataloge werden mit neuer Verschlüsselung aktualisiert
+2012-05-31 11:55:21.496 +0200	Vorstand.fmp12	0	Wiederherstellung: Tabellenkatalog
+2012-05-31 11:55:21.529 +0200	Vorstand.fmp12	0	Tabellenkatalog Reihenfolgeliste wird wieder aufgebaut: Name 
+2012-05-31 11:55:21.530 +0200	Vorstand.fmp12	0	Wiederherstellung: Tabellenaliaskatalog
+2012-05-31 11:55:21.530 +0200	Vorstand.fmp12	0	Tabellenaliaskatalog Reihenfolgeliste wird wieder aufgebaut: Name 
+2012-05-31 11:55:21.531 +0200	Vorstand.fmp12	0	Wiederherstellung: Benutzerkontokatalog
+2012-05-31 11:55:21.531 +0200	Vorstand.fmp12	0	Benutzerkontokatalog Reihenfolgeliste wird wieder aufgebaut: Name 
+2012-05-31 11:55:21.532 +0200	Vorstand.fmp12	0	Wiederherstellung: Berechtigungenkatalog
+2012-05-31 11:55:21.532 +0200	Vorstand.fmp12	0	Berechtigungenkatalog Reihenfolgeliste wird wieder aufgebaut: Name 
+2012-05-31 11:55:21.532 +0200	Vorstand.fmp12	0	Wiederherstellung: Erweitertes-Zugriffsrecht-Katalog
+2012-05-31 11:55:21.533 +0200	Vorstand.fmp12	0	Erweitertes-Zugriffsrecht-Katalog Reihenfolgeliste wird wieder aufgebaut: Name 
+2012-05-31 11:55:21.533 +0200	Vorstand.fmp12	0	Wiederherstellung: Wertelistekatalog
+2012-05-31 11:55:21.533 +0200	Vorstand.fmp12	0	Wertelistekatalog Reihenfolgeliste wird wieder aufgebaut: Name 
+2012-05-31 11:55:21.577 +0200	Vorstand.fmp12	0	Wiederherstellung: Datenquellenkatalog
+2012-05-31 11:55:21.577 +0200	Vorstand.fmp12	0	Datenquellenkatalog Reihenfolgeliste wird wieder aufgebaut: Name 
+2012-05-31 11:55:21.578 +0200	Vorstand.fmp12	0	Wiederherstellung: Schriftkatalog
+2012-05-31 11:55:21.578 +0200	Vorstand.fmp12	0	Schriftkatalog Reihenfolgeliste wird wieder aufgebaut: Name 
+2012-05-31 11:55:21.616 +0200	Vorstand.fmp12	0	Wiederherstellung: Feldkatalog 'Vorstand'
+2012-05-31 11:55:21.616 +0200	Vorstand.fmp12	0	Feldkatalog 'Vorstand' Reihenfolgeliste wird wieder aufgebaut: Name 
+2012-05-31 11:55:21.712 +0200	Vorstand.fmp12	0	Werteindex für Feld 'traktandum' wieder aufgebaut; 20 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.713 +0200	Vorstand.fmp12	0	Wortindex für Feld 'traktandum' wieder aufgebaut; 29 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.716 +0200	Vorstand.fmp12	0	Werteindex für Feld 'referent' wieder aufgebaut; 6 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.716 +0200	Vorstand.fmp12	0	Wortindex für Feld 'referent' wieder aufgebaut; 7 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.735 +0200	Vorstand.fmp12	0	Werteindex für Feld 'erwägungen' wieder aufgebaut; 72 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.736 +0200	Vorstand.fmp12	0	Wortindex für Feld 'erwägungen' wieder aufgebaut; 137 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.739 +0200	Vorstand.fmp12	0	Werteindex für Feld 'beschluss' wieder aufgebaut; 9 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.739 +0200	Vorstand.fmp12	0	Wortindex für Feld 'beschluss' wieder aufgebaut; 37 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.741 +0200	Vorstand.fmp12	0	Werteindex für Feld 'verantwortung' wieder aufgebaut; 5 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.761 +0200	Vorstand.fmp12	0	Wortindex für Feld 'verantwortung' wieder aufgebaut; 7 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.762 +0200	Vorstand.fmp12	0	Werteindex für Feld 'datum' wieder aufgebaut; 6 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.764 +0200	Vorstand.fmp12	0	Werteindex für Feld 'nummer' wieder aufgebaut; 7 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.765 +0200	Vorstand.fmp12	0	Wortindex für Feld 'nummer' wieder aufgebaut; 6 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.766 +0200	Vorstand.fmp12	0	Werteindex für Feld 'dokulink' wieder aufgebaut; 2 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.768 +0200	Vorstand.fmp12	0	Werteindex für Feld 'pendenzoffen' wieder aufgebaut; 2 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.769 +0200	Vorstand.fmp12	0	Werteindex für Feld 'termin' wieder aufgebaut; 2 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.797 +0200	Vorstand.fmp12	0	Werteindex für Feld 'pendenz' wieder aufgebaut; 10 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.798 +0200	Vorstand.fmp12	0	Wortindex für Feld 'pendenz' wieder aufgebaut; 21 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.800 +0200	Vorstand.fmp12	0	Werteindex für Feld 'ok' wieder aufgebaut; 2 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.801 +0200	Vorstand.fmp12	0	Wortindex für Feld 'ok' wieder aufgebaut; 1 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.806 +0200	Vorstand.fmp12	0	Werteindex für Feld 'traktandumteaser' wieder aufgebaut; 24 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.806 +0200	Vorstand.fmp12	0	Wortindex für Feld 'traktandumteaser' wieder aufgebaut; 78 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.808 +0200	Vorstand.fmp12	0	Werteindex für Feld 'adressat' wieder aufgebaut; 2 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.808 +0200	Vorstand.fmp12	0	Wortindex für Feld 'adressat' wieder aufgebaut; 1 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.811 +0200	Vorstand.fmp12	0	Werteindex für Feld 'art' wieder aufgebaut; 3 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.811 +0200	Vorstand.fmp12	0	Wortindex für Feld 'art' wieder aufgebaut; 2 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.812 +0200	Vorstand.fmp12	0	Werteindex für Feld 'eventdatum' wieder aufgebaut; 2 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.814 +0200	Vorstand.fmp12	0	Werteindex für Feld 'suchmonat' wieder aufgebaut; 3 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.839 +0200	Vorstand.fmp12	0	Werteindex für Feld 'suchjahr' wieder aufgebaut; 2 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.841 +0200	Vorstand.fmp12	0	Werteindex für Feld 'eventpasst' wieder aufgebaut; 3 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.842 +0200	Vorstand.fmp12	0	Werteindex für Feld 'datensatznummer' wieder aufgebaut; 27 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.845 +0200	Vorstand.fmp12	0	Werteindex für Feld 'tempdokpfad' wieder aufgebaut; 6 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.856 +0200	Vorstand.fmp12	0	Wortindex für Feld 'tempdokpfad' wieder aufgebaut; 31 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.863 +0200	Vorstand.fmp12	0	Werteindex für Feld 'Protovorbereitung' wieder aufgebaut; 86 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.867 +0200	Vorstand.fmp12	0	Wortindex für Feld 'Protovorbereitung' wieder aufgebaut; 176 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.868 +0200	Vorstand.fmp12	0	Wiederherstellung: Feldkatalog 'Pendenzliste'
+2012-05-31 11:55:21.869 +0200	Vorstand.fmp12	0	Feldkatalog 'Pendenzliste' Reihenfolgeliste wird wieder aufgebaut: Name 
+2012-05-31 11:55:21.872 +0200	Vorstand.fmp12	0	Werteindex für Feld 'pendenz' wieder aufgebaut; 17 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.897 +0200	Vorstand.fmp12	0	Wortindex für Feld 'pendenz' wieder aufgebaut; 48 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.900 +0200	Vorstand.fmp12	0	Werteindex für Feld 'datum' wieder aufgebaut; 5 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.927 +0200	Vorstand.fmp12	0	Werteindex für Feld 'erledigt' wieder aufgebaut; 2 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.929 +0200	Vorstand.fmp12	0	Werteindex für Feld 'verantwortung' wieder aufgebaut; 3 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.930 +0200	Vorstand.fmp12	0	Wortindex für Feld 'verantwortung' wieder aufgebaut; 4 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.932 +0200	Vorstand.fmp12	0	Werteindex für Feld 'adressat' wieder aufgebaut; 7 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.945 +0200	Vorstand.fmp12	0	Wortindex für Feld 'adressat' wieder aufgebaut; 6 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.948 +0200	Vorstand.fmp12	0	Werteindex für Feld 'termin' wieder aufgebaut; 3 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.950 +0200	Vorstand.fmp12	0	Werteindex für Feld 'vorstand_pendenz_id' wieder aufgebaut; 9 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.968 +0200	Vorstand.fmp12	0	Werteindex für Feld 'art' wieder aufgebaut; 2 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.969 +0200	Vorstand.fmp12	0	Wortindex für Feld 'art' wieder aufgebaut; 2 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.970 +0200	Vorstand.fmp12	0	Werteindex für Feld 'journal_pendenz_id' wieder aufgebaut; 1 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.978 +0200	Vorstand.fmp12	0	Werteindex für Feld 'pendenz ergebnis' wieder aufgebaut; 4 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.979 +0200	Vorstand.fmp12	0	Wortindex für Feld 'pendenz ergebnis' wieder aufgebaut; 8 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.980 +0200	Vorstand.fmp12	0	Wiederherstellung: Feldkatalog 'Journal'
+2012-05-31 11:55:21.980 +0200	Vorstand.fmp12	0	Feldkatalog 'Journal' Reihenfolgeliste wird wieder aufgebaut: Name 
+2012-05-31 11:55:21.983 +0200	Vorstand.fmp12	0	Werteindex für Feld 'journal_datensatznummer' wieder aufgebaut; 2 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.985 +0200	Vorstand.fmp12	0	Werteindex für Feld 'eventteaser' wieder aufgebaut; 1 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.986 +0200	Vorstand.fmp12	0	Werteindex für Feld 'eventtext' wieder aufgebaut; 2 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.987 +0200	Vorstand.fmp12	0	Werteindex für Feld 'verantwortung' wieder aufgebaut; 1 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.988 +0200	Vorstand.fmp12	0	Werteindex für Feld 'art' wieder aufgebaut; 1 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.989 +0200	Vorstand.fmp12	0	Werteindex für Feld 'eventdatum' wieder aufgebaut; 2 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.990 +0200	Vorstand.fmp12	0	Werteindex für Feld 'adressat' wieder aufgebaut; 1 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.991 +0200	Vorstand.fmp12	0	Werteindex für Feld 'datum' wieder aufgebaut; 2 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.992 +0200	Vorstand.fmp12	0	Werteindex für Feld 'termin' wieder aufgebaut; 1 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.993 +0200	Vorstand.fmp12	0	Werteindex für Feld 'eventtitel' wieder aufgebaut; 2 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.994 +0200	Vorstand.fmp12	0	Werteindex für Feld 'tempdokpfad' wieder aufgebaut; 2 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:21.994 +0200	Vorstand.fmp12	0	Wortindex für Feld 'tempdokpfad' wieder aufgebaut; 7 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:22.012 +0200	Vorstand.fmp12	0	Wiederherstellung: Feldkatalog 'Vorstand_Pfadliste'
+2012-05-31 11:55:22.013 +0200	Vorstand.fmp12	0	Feldkatalog 'Vorstand_Pfadliste' Reihenfolgeliste wird wieder aufgebaut: Name 
+2012-05-31 11:55:22.016 +0200	Vorstand.fmp12	0	Werteindex für Feld 'pfad_id' wieder aufgebaut; 2 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:22.028 +0200	Vorstand.fmp12	0	Werteindex für Feld 'vorstand_dokumentpfad' wieder aufgebaut; 6 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:22.034 +0200	Vorstand.fmp12	0	Wortindex für Feld 'vorstand_dokumentpfad' wieder aufgebaut; 29 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:22.037 +0200	Vorstand.fmp12	0	Werteindex für Feld 'vorstand_dokname' wieder aufgebaut; 6 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:22.039 +0200	Vorstand.fmp12	0	Werteindex für Feld 'vorstand_dokumentname' wieder aufgebaut; 1 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:22.046 +0200	Vorstand.fmp12	0	Werteindex für Feld 'vorstand_art' wieder aufgebaut; 1 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:22.048 +0200	Vorstand.fmp12	0	Werteindex für Feld 'vorstand_pfad_id' wieder aufgebaut; 8 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:22.049 +0200	Vorstand.fmp12	0	Wiederherstellung: Feldkatalog 'Journal_Pfadliste'
+2012-05-31 11:55:22.050 +0200	Vorstand.fmp12	0	Feldkatalog 'Journal_Pfadliste' Reihenfolgeliste wird wieder aufgebaut: Name 
+2012-05-31 11:55:22.053 +0200	Vorstand.fmp12	0	Werteindex für Feld 'journal_dokumentpfad' wieder aufgebaut; 1 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:22.053 +0200	Vorstand.fmp12	0	Wortindex für Feld 'journal_dokumentpfad' wieder aufgebaut; 7 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:22.054 +0200	Vorstand.fmp12	0	Werteindex für Feld 'journal_pfad_id' wieder aufgebaut; 1 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:22.069 +0200	Vorstand.fmp12	0	Werteindex für Feld 'journal_dokname' wieder aufgebaut; 1 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:22.071 +0200	Vorstand.fmp12	0	Werteindex für Feld 'journal_art' wieder aufgebaut; 1 Objekt(e) existieren jetzt, Unterschied zu altem Index ist 0
+2012-05-31 11:55:22.071 +0200	Vorstand.fmp12	0	Wiederherstellung: Layoutkatalog
+2012-05-31 11:55:22.079 +0200	Vorstand.fmp12	0	Layoutkatalog Reihenfolgeliste wird wieder aufgebaut: Name 
+2012-05-31 11:55:22.110 +0200	Vorstand.fmp12	0	Wiederherstellung: Scriptkatalog
+2012-05-31 11:55:22.111 +0200	Vorstand.fmp12	0	Scriptkatalog Reihenfolgeliste wird wieder aufgebaut: Name 
+2012-05-31 11:55:22.123 +0200	Vorstand.fmp12	0	Wiederherstellung: Angepasstes-Menüset-Katalog
+2012-05-31 11:55:22.124 +0200	Vorstand.fmp12	0	Angepasstes-Menüset-Katalog Reihenfolgeliste wird wieder aufgebaut: Name 
+2012-05-31 11:55:22.125 +0200	Vorstand.fmp12	0	Wiederherstellung: Angepasstes-Menü-Katalog
+2012-05-31 11:55:22.125 +0200	Vorstand.fmp12	0	Angepasstes-Menü-Katalog Reihenfolgeliste wird wieder aufgebaut: Name 
+2012-05-31 11:55:22.128 +0200	Vorstand.fmp12	0	Scriptkatalog-Prüfsummen werden aktualisiert.
+2012-05-31 11:55:22.144 +0200	Vorstand.fmp12	0	Wiederherstellung: Scriptkatalog
+2012-05-31 11:55:22.197 +0200	Vorstand.fmp12	0	Scriptkatalog Reihenfolgeliste wird wieder aufgebaut: Kurzreferenz 
+2012-05-31 11:55:22.200 +0200	Vorstand.fmp12	0	Scriptkatalog Reihenfolgeliste wird wieder aufgebaut: Name 
+2012-05-31 11:55:22.203 +0200	Vorstand.fmp12	0	Scriptkatalog Reihenfolgeliste wird wieder aufgebaut: benutzerdefiniert 
+2012-05-31 11:55:22.218 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'Dokument holen' (1)
+2012-05-31 11:55:22.244 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'Pfad holen' (2)
+2012-05-31 11:55:22.244 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'Dok holen' (3)
+2012-05-31 11:55:22.245 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'Protokoll holen' (4)
+2012-05-31 11:55:22.246 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'Protokollpfad holen' (5)
+2012-05-31 11:55:22.246 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'JournalDokpfad holen' (6)
+2012-05-31 11:55:22.247 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'DokA holen' (7)
+2012-05-31 11:55:22.247 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'DokB holen' (8)
+2012-05-31 11:55:22.248 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'DokC holen' (9)
+2012-05-31 11:55:22.249 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'DokD holen' (10)
+2012-05-31 11:55:22.249 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'DokpfadB holen' (11)
+2012-05-31 11:55:22.250 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'DokpfadC holen' (12)
+2012-05-31 11:55:22.251 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'DokpfadD holen' (13)
+2012-05-31 11:55:22.251 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'DokE holen' (14)
+2012-05-31 11:55:22.269 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'DokpfadE holen' (15)
+2012-05-31 11:55:22.269 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'DokpfadA löschen' (16)
+2012-05-31 11:55:22.270 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'DokpfadB löschen' (17)
+2012-05-31 11:55:22.270 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'DokpfadC löschen' (18)
+2012-05-31 11:55:22.271 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'DokpfadD löschen' (19)
+2012-05-31 11:55:22.271 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'DokpfadE löschen' (20)
+2012-05-31 11:55:22.272 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'neues Traktandum' (21)
+2012-05-31 11:55:22.272 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'Neues Protokoll' (22)
+2012-05-31 11:55:22.273 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'start' (23)
+2012-05-31 11:55:22.274 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'DokpfadA holen' (24)
+2012-05-31 11:55:22.274 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'zu Journal' (25)
+2012-05-31 11:55:22.275 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'sitzung suchen' (26)
+2012-05-31 11:55:22.275 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'neuer Event' (27)
+2012-05-31 11:55:22.276 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'zu Vorstand' (28)
+2012-05-31 11:55:22.277 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'heute einsetzen' (29)
+2012-05-31 11:55:22.278 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'prev' (30)
+2012-05-31 11:55:22.278 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'next' (31)
+2012-05-31 11:55:22.279 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'event suchen' (32)
+2012-05-31 11:55:22.279 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'zu Pendenzen' (33)
+2012-05-31 11:55:22.280 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'teaser einsetzen' (34)
+2012-05-31 11:55:22.281 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'neue Vorstandpendenz' (35)
+2012-05-31 11:55:22.281 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'renumber' (36)
+2012-05-31 11:55:22.282 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'neue Journalpendenz' (37)
+2012-05-31 11:55:22.282 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'zu Pfadliste' (38)
+2012-05-31 11:55:22.283 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'JournalDok holen' (39)
+2012-05-31 11:55:22.283 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'Dokument oeffnen' (40)
+2012-05-31 11:55:22.284 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'DokA holen Kopie' (42)
+2012-05-31 11:55:22.284 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'JournalDok holen Kopie' (43)
+2012-05-31 11:55:22.285 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'Bindung löschen' (44)
+2012-05-31 11:55:22.285 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'Pendenz löschen' (45)
+2012-05-31 11:55:22.286 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'zu pendenzliste' (46)
+2012-05-31 11:55:22.286 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'VorstandDokpfad holen' (47)
+2012-05-31 11:55:22.287 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'heute einsetzen journal' (48)
+2012-05-31 11:55:22.287 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'JournalDokument oeffnen' (49)
+2012-05-31 11:55:22.288 +0200	Vorstand.fmp12	0	Wiederherstellung: Script 'Einladung darstellen' (50)
+2012-05-31 11:55:26.047 +0200	Vorstand.fmp12	0	10 Layouts wurden konvertiert.
+2012-05-31 11:55:26.049 +0200	Vorstand.fmp12	0	Alte Layoutsymbole werden aktualisiert.
+2012-05-31 11:55:26.512 +0200	Vorstand.fmp12	0	Alte .FP7-Dateiverweise werden auf .FMP12 aktualisiert.
+2012-05-31 11:55:26.513 +0200	Vorstand.fmp12	0	  .FP7-Verweise in Datenquellen werden aktualisiert
+2012-05-31 11:55:26.598 +0200	Vorstand.fmp12	0	  .FP7-Verweise in Scripts werden aktualisiert
+2012-05-31 11:55:26.650 +0200	Vorstand.fmp12	0	  .FP7-Verweise in Tasten werden aktualisiert
+2012-05-31 11:55:26.716 +0200	Vorstand.fmp12	0	  Rechtschreiboptionen werden aktualisiert
+2012-05-31 11:55:26.794 +0200	Vorstand.fmp12	0	Konvertierung beendet.
